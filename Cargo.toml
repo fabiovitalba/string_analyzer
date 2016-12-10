@@ -1,0 +1,6 @@
+[package]
+name = "string_analyzer"
+version = "0.1.0"
+authors = ["Fabio Vitalba <fabio.vitalba@fishinggiraffe.com>"]
+
+[dependencies]
